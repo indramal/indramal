@@ -1,4 +1,4 @@
-<p align="center" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></p>
+<p align="center" ><img  src = "https://github.com/indramal/indramal/blob/main/about_me.gif?raw=true" width = 100px></p>
 <h1 align="center">Hi 👋, I'm Indramal Wansekara</h1>
 <h3 align="center">I am Electrical and Electronic Engineer.</h3>
 <h3 align="center">AI + Cloud + APP + Electrical + Electronic</h3>
@@ -12,15 +12,18 @@
 
 ---
 
-- 👨‍💻 All of my projects are available at [https://www.indramal.com/projects/](https://www.indramal.com/projects/)
+<!-- Float the image -->
+<img src="https://github.com/indramal/indramal/blob/main/animation_500_kxa883sd.gif?raw=true"
+     alt="Indramal Wansekara"
+     width="200"
+     align="right">
 
-- 📝 I regularly write articles on [https://medium.com/@wmindramalw](https://medium.com/@wmindramalw)
-
-- 💬 Ask me about any in **AI + Cloud + APP + Electrical + Electronic**
-
-- 📫 How to reach me **wmindramalw@gmal.com**
-
-- 📄 Know about my experiences [https://www.indramal.com/](https://www.indramal.com/)
+<!-- Ordinary Markdown after the image will wrap around it -->
+- 👨‍💻 All of my projects are available at [indramal.com/projects](https://www.indramal.com/projects/)
+- 📝 I regularly write articles on [Medium](https://medium.com/@wmindramalw)
+- 💬 Ask me about anything in **AI + Cloud + APP + Electrical + Electronic**
+- 📫 Reach me at **wmindramalw@gmal.com**
+- 📄 Know more about my experience at [indramal.com](https://www.indramal.com/)
 
 ---
 
@@ -69,6 +72,5 @@
 
 ---
 
-
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=indramal&" alt="indramal" /></p>
+
